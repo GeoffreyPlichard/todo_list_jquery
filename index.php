@@ -26,7 +26,7 @@
 				<input type="checkbox" id="toggle-all">
 				<button class="btn" id="clear-completed">Clear completed</button>
 				<span id="todo-count"></span>
-				<p class="notice">Double click to</p>
+				<p class="notice">Double click to edit</p>
 			</footer>
 		</section>
 
